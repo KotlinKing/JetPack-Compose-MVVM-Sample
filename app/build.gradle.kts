@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.kotlinking.pawpal"
+    namespace = "com.kotlinking.jetpackcomposemvvmsample"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.kotlinking.pawpal"
+        applicationId = "com.kotlinking.jetpackcomposemvvmsample"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

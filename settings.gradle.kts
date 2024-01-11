@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetPack_Compose_MVVM_Sample"
+rootProject.name = "JetPack-Compose-MVVM-Sample"
 include(":app")
  
