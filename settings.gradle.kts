@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetPackComposeMVVMSample"
+rootProject.name = "PawPal"
 include(":app")
  
